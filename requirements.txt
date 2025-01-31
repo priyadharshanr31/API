@@ -1,0 +1,8 @@
+streamlit
+pandas
+openai
+transformers
+tiktoken
+datetime
+os
+json
